@@ -48,4 +48,4 @@ You can run the application directly from IntelliJ or via the terminal:
 
 ---
 
-Created with ❤️ using [Antigravity](https://google.com)
+
