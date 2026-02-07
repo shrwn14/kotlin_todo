@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+
+# Build outputs
+out/
+bin/
